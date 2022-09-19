@@ -1,6 +1,9 @@
 ﻿# TP Git & Github
 
-blablabla
+binôme :
+Loïcia KOEHL
+Alix HAVRET
+
 
 Ce TP fait suite à un cours théorique qui présente Git et Github.
 Les slides sont disponible ici : https://speakerdeck.com/volpeo/introduction-a-git
